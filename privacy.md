@@ -1,11 +1,11 @@
-# Datenschutzerklärung — Tickwork
+# Datenschutzerklärung — Bautakt
 
-**Stand:** [DATUM, z. B. 15. Juni 2026]
+**Stand:** 15.06.2026, Jaime Bakker
 
-Tickwork speichert alle deine Daten ausschließlich **lokal auf deinem Gerät**. Wir erheben, sammeln oder übertragen keine personenbezogenen Daten.
+Bautakt speichert alle deine Daten ausschließlich **lokal auf deinem Gerät**. Wir erheben, sammeln oder übertragen keine personenbezogenen Daten.
 
 ## Verantwortlicher
-[DEIN NAME], [STRASSE NR.], [PLZ ORT], [LAND] · E-Mail: [DEINE-SUPPORT-EMAIL]
+Jaime Bakker, Aachenerstr 30, 52134 Herzogenrath, Deutschalnd · E-Mail: Kilosyst@gmail.com
 
 ## 1. Welche Daten die App verarbeitet
 Alle von dir eingegebenen Inhalte (Zeiten, Arbeitgeber, Projekte, Tätigkeiten, Notizen, Fotos, Rechnungs- und Absenderdaten) werden ausschließlich lokal auf deinem Gerät gespeichert. Wir als Anbieter haben darauf **keinen Zugriff** und erhalten keine dieser Daten.
@@ -37,11 +37,11 @@ Diese Erklärung kann angepasst werden. Es gilt die hier veröffentlichte Fassun
 
 ---
 
-# Privacy Policy — Tickwork (English)
+# Privacy Policy — Bautakt (English)
 
 **Last updated:** [DATE]
 
-Tickwork stores all your data **locally on your device only**. We do not collect, gather or transmit any personal data.
+Bautakt stores all your data **locally on your device only**. We do not collect, gather or transmit any personal data.
 
 **Controller:** [YOUR NAME], [ADDRESS] · Email: [YOUR-SUPPORT-EMAIL]
 
