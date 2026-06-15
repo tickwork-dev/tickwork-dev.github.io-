@@ -1,7 +1,7 @@
-# Tickwork — Support
+# Bautakt — Support
 
-Tickwork – lokale Zeiterfassung & Rechnung für Handwerker und Selbstständige.
-Tickwork – local time tracking & invoicing for tradespeople and the self-employed.
+Bautakt – lokale Zeiterfassung & Rechnung für Handwerker und Selbstständige.
+Bautakt – local time tracking & invoicing for tradespeople and the self-employed.
 
 ## Support / Hilfe
 Fragen, Probleme oder Feedback? / Questions or feedback?
